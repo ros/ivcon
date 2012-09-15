@@ -1,0 +1,15 @@
+<stack>
+  <name>ivcon</name>
+  <version>0.1.0</version>
+  <description brief="ivcon">Mesh Conversion Utility</description>
+  <author email="jratcliff@infiniplex.net">John Burkardt</author>
+
+  <maintainer email="isucan@willowgarage.com">Ioan Sucan</maintainer>
+
+  <license>LGPL</license>  
+  <copyright>John Burkardt</copyright>
+  <url>http://codesuppository.blogspot.com</url>
+
+  <build_depends>catkin</build_depends>
+
+</stack>
