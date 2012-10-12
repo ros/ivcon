@@ -1,5 +1,8 @@
 <package>
-<description brief="Mesh Conversion Utility">
+  <name>ivcon</name>
+  <version>0.1.3</version>
+  
+  <description>
 
 Mesh Conversion Utility
 
@@ -9,10 +12,12 @@ keeping this package in this revision for mesh conversions.  This
 package is only available as a single source file for download.  There
 are no local modifications to this package.
 
-</description>
-<author>John Burkardt</author>
-<license>GPL</license>
-<review status="3rdparty doc reviewed" notes=""/>
-<url>https://sourceforge.net/projects/ivcon/</url>
+  </description>
+  <author>John Burkardt</author>
+  <maintainer email="isucan@willowgarage.com">Ioan Sucan</maintainer>
+  <license>GPL</license>
+  <url type="website">https://sourceforge.net/projects/ivcon/</url>
 
+  <build_depend>catkin</build_depend>
+  
 </package>
