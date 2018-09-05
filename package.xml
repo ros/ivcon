@@ -14,7 +14,8 @@ are no local modifications to this package.
 
   </description>
   <author email="jburkardt@fsu.edu">John Burkardt</author>
-  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+  <maintainer email="ros-orphaned-packages@googlegroups.com">ROS Orphaned Package Maintainers</maintainer>
+
   <license>GPL</license>
   <url type="website">https://sourceforge.net/projects/ivcon/</url>
 
