@@ -2,8 +2,8 @@
 Changelog for package ivcon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.7 (2018-09-05)
+------------------
 * Merge pull request `#6 <https://github.com/ros/ivcon/issues/6>`_ from k-okada/add_travis
   Add travis.yml
 * update maintainer to ROS Orphaned Package Maintainers
